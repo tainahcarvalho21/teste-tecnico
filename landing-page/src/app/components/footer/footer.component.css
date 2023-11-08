@@ -1,0 +1,16 @@
+.footer-container{
+  display: flex;
+  flex-direction: column;
+  background-color: #E6E6E6;
+}
+
+.credits{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.credits-description{
+  display: flex;
+  flex-direction: row;
+}

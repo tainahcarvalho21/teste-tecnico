@@ -7,7 +7,7 @@ import { MainComponent } from './components/main/main.component';
 import { FooterComponent } from './components/footer/footer.component';
 import { CarComponent } from './components/car/car.component';
 import { RequestQuoteComponent } from './components/request-quote/request-quote.component';
-import { HomeComponent } from './components/pages/home/home.component';
+import { HomeComponent } from './pages/home/home.component';
 
 @NgModule({
   declarations: [
